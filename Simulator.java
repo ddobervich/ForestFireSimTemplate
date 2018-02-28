@@ -15,24 +15,4 @@ public class Simulator {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
-	public void doOneStep() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public void reset() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public void run() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public void displayInfo() {
-		// TODO Auto-generated method stub
-		
-	}
 }

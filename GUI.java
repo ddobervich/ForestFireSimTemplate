@@ -34,8 +34,8 @@ public class GUI extends PApplet {
 	@Override
 	public void draw() {
 		background(200);
-
-		sim.doOneStep();			// propogate the fires by 1 frame
+		
+		// have your simulation run one step.
 		
 		display.drawGrid(sim.getForest()); // display the game
 	}
